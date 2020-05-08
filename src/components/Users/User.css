@@ -1,0 +1,30 @@
+.user {
+    display: flex;
+    width: 75%;
+    border-bottom: 1px solid lightgray;
+    border-radius: 30px;
+    margin: 0px 10px 5px 130px;
+    padding-bottom: 5px;
+    background-color: bisque;
+}
+.info_area {
+    margin-left: 25px;
+}
+.customer_name {
+    color: blue;
+    font-weight: 700;
+}
+.main_button {
+    background-color: #38ff88;
+    width: 150px;
+    height: 30px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.image img {
+    width: 200px;
+    height: 200px;
+    margin: 65px 60px 60px 63px;
+    border-radius: 5px;
+}

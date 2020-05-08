@@ -1,0 +1,9 @@
+.cart_container {
+    width: 245px;
+    height: 213px;
+    margin-left: 20px;
+    background-color: lightgray;
+    padding-left: 2rem;
+    border-radius: 7px;
+    margin-left: 2.8rem;
+}
